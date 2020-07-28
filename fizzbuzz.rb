@@ -12,4 +12,4 @@ end
 
 FizzBuzz(3)
 FizzBuzz(5)
-FizzBuzz(15)
+FizzBuzz(4)
