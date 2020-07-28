@@ -10,6 +10,6 @@ def fizzbuzz int
   end
 end
 
-FizzBuzz(3)
-FizzBuzz(5)
-FizzBuzz(4)
+fizzbuzz(3)
+fizzbuzz(5)
+fizzbuzz(4)
